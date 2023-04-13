@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(122, 89, 229);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  h3 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    color: white;
+    font-size: 14px;
+  }
+
+  input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+   
+  }
+
+  label{
+    color: white;
+    font-size: 14px;
+  }

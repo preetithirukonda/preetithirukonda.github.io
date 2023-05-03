@@ -35,7 +35,6 @@ body {
   }
   
 
-  /* */
   .collage {
     display: flex;
     flex-wrap: wrap;
@@ -55,4 +54,8 @@ body {
 
   ul{
     color: rgb(89, 54, 177);
+  }
+
+  .footer{
+    text-align: center;
   }
